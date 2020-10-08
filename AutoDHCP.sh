@@ -101,7 +101,7 @@ echo "INTERFACES="enp0s8"" >> /etc/default/isc-dhcp-server
 #POLECENIA DO EDYCJI PLIKU DHCPD.CONF
 
 clear
-echo "Podaj nazwe domeny! (option domain-name-servers) "
+echo "Podaj nazwe domeny W CUDZYSŁOWIU! (option domain-name-servers) "
 read NazwaDomeny
 echo "Podaj IP domeny! (option domain-name) "
 read IpDomeny
@@ -314,7 +314,7 @@ echo "INTERFACES="enp0s8"" >> /etc/default/isc-dhcp-server
 #POLECENIA DO EDYCJI PLIKU DHCPD.CONF
 
 clear
-echo "Podaj nazwe domeny! (option domain-name-servers) "
+echo "Podaj nazwe domeny W CUDZYSŁOWIU! (option domain-name-servers) "
 read NazwaDomeny
 echo "Podaj IP domeny! (option domain-name) "
 read IpDomeny
